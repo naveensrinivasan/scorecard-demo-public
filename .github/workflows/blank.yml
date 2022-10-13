@@ -34,8 +34,3 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-          
-      # Add Scorecards
-      - name: OSSF Scorecard action
-        uses: ossf/scorecard-action@v2.0.4
-
