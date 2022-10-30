@@ -1,6 +1,6 @@
 # scorecard-demo-public
 [![OpenSSF
-Scorecard](https://api.securityscorecards.dev/projects/github.com/{owner}/{repo}/badge)](https://api.securityscorecards.dev/projects/github.com/{owner}/{repo})
+Scorecard](https://api.securityscorecards.dev/projects/github.com/brianrussell2/scorecard-demo-public/badge)](https://api.securityscorecards.dev/projects/github.com/brianrussell2/scorecard-demo-public)
 
 Repo to demonstart Scorecards
 
